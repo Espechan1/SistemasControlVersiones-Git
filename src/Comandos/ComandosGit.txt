@@ -6,4 +6,3 @@
 3. Git commit
 4. Git status
 5. Git log”
-“Añado los comandos más utilizados.”
