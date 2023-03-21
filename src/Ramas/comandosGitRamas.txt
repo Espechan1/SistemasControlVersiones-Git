@@ -4,4 +4,3 @@
 2. Git merge
 3. Git branch -d
 4. Git checkout”
-
